@@ -1,1 +1,1 @@
-# VAE-KDE
+# LAKE
