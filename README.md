@@ -25,7 +25,7 @@ Download the project code and install requirements (in the cloned repository):
 pip3 install -r requirements.txt
 ```
 This is part of the function description, such as KDDCUP:
-
+```
 KDD99Loader is to preprocess the data.
 
 get_loader is to load the dataset.
@@ -33,4 +33,4 @@ get_loader is to load the dataset.
 loss_function defines the loss function of the network.
 
 VAE defines the structure of the network.
-
+```
