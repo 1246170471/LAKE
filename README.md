@@ -1,4 +1,8 @@
 # LAKE
+最重要的：被跳槽导师抢走两篇论文，抢走第一单位，从烟台大学跳槽到中国海洋大学，中国海洋大学挖这种人，给985丢人
+
+Note: I was robbed of two papers by my supervisor, stole the first unit, and jumped from Yantai University to Ocean University of China. Ocean University of China poached this kind of person, and it was a shame to 985
+
 LAKE (Knowledge-Based Systems) official code
 
 The code for the paper ["Layer-constrained variational autoencoding kernel density estimation model for anomaly detection" (authors: Peng Lv*, Yanwei Yu *, Yangyang Fan*, Xianfeng Tang, Xiangrong Tong)](https://www.sciencedirect.com/science/article/pii/S0950705120301635) is now open source! 
